@@ -5,7 +5,7 @@
 
 ## Introduction
 
-A for fun project made with GitHub and Unity. Try it out for yourself by hitting **Play**!
+A for fun project made with C# and Unity. Try it out for yourself by hitting **Play**!
 
 <p align="left">
  <a href="https://nategrabowski.github.io/TileVaniaOpenGL/Builds/index.html" target="_blank"> <img src = "https://github.com/NateGrabowski/Naruto-Quiz/blob/master/Play-Button.png?raw=true" width=200> </a>
